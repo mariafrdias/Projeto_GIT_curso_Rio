@@ -12,3 +12,13 @@ adiciona informação
 usar sempre apos alteraçoes
 
 `git status` - ver como esta cada documento
+
+`git log`historico
+
+`git --abbrev-commit` da o menor identificador unico
+
+`git push` sincroniza os arquivos com o github remoto
+
+`git pull` sincroniza os arquivos com o git local
+
+`git remote add origin https://github.com/mariafrdias/Projeto_GIT_curso_Rio.git`- criar a ponte entre local e remoto
