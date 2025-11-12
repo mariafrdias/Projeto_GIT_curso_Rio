@@ -26,3 +26,5 @@ local onde organiza os arquivos antes do commit; faço anotaçoes e gerencio
 
 3. Repositorio local
 arquivo.git - que fica invisivel e tem toda a linha do tempo
+
+muito dificil! Desculpe atrasar seu curso.
