@@ -22,7 +22,7 @@ Qual seria a melhor mensagem?
 área de desenvolvimento de script no computador; pasta referente ao meu projeto. onde o repositorio git foi iniciado.
 
 2. Staging Area
-local onde organiza os arquivos antes do commit
+local onde organiza os arquivos antes do commit; faço anotaçoes e gerencio
 
 3. Repositorio local
 arquivo.git - que fica invisivel e tem toda a linha do tempo
