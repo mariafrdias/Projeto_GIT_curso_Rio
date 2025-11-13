@@ -30,5 +30,4 @@ arquivo.git - que fica invisivel e tem toda a linha do tempo
 muito dificil! Desculpe atrasar seu curso.
 
 Bonjour bonjour
-change channge
-hello,ngmyifvydh;fgdckyrrx,
+re change second coflict
