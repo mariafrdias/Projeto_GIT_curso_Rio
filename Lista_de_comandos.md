@@ -22,3 +22,5 @@ usar sempre apos alteraçoes
 `git pull` sincroniza os arquivos com o git local
 
 `git remote add origin https://github.com/mariafrdias/Projeto_GIT_curso_Rio.git`- criar a ponte entre local e remoto
+
+nova linha
