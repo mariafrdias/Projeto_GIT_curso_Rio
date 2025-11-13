@@ -30,8 +30,24 @@ arquivo.git - que fica invisivel e tem toda a linha do tempo
 muito dificil! Desculpe atrasar seu curso.
 
 Bonjour bonjour
-<<<<<<< HEAD
 re change second conflict addding things blablabla vvvvvvvv
 =======
 again 
 >>>>>>> 65e298f13f0947a2a7595dc27296595881bc758a
+
+
+editando novo arquivo
+
+B- ranching 
+
+boa pratica para trabalhar em colaboração e cria linha do tempo paralelas
+ - pull 
+
+ traz atualizações
+
+ -push
+
+ deve ser feito ppr branch
+
+ não há limites para numero de branch e qual local
+
