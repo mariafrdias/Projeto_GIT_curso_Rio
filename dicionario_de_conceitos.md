@@ -30,4 +30,4 @@ arquivo.git - que fica invisivel e tem toda a linha do tempo
 muito dificil! Desculpe atrasar seu curso.
 
 Bonjour bonjour
-re change second conflict addding things blablabla 
+again 
