@@ -23,4 +23,16 @@ usar sempre apos alteraçoes
 
 `git remote add origin https://github.com/mariafrdias/Projeto_GIT_curso_Rio.git`- criar a ponte entre local e remoto
 
+<<<<<<< HEAD
 nova linha
+=======
+## Branch
+```
+git branch --list
+git branch <nome>
+git checkout
+```
+- push on your branch
+- nao ha limites de onde branch comeca (i don't have all the accent on my azerty keyboard sorry for typo)
+
+>>>>>>> 8c44080c28838beeb67f3ebcbdb7f04f53c27cbc
